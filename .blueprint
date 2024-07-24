@@ -1,0 +1,9 @@
+created:
+    - database/factories/PostFactory.php
+    - database/migrations/2024_07_20_213507_create_posts_table.php
+    - app/Models/Post.php
+    - database/seeders/UserSeeder.php
+    - database/seeders/PostSeeder.php
+models:
+    User: { name: string, email: string, email_verified_at: 'datetime nullable', password: string, remember_token: 'string nullable' }
+    Post: { title: string, slug: string, content: 'longtext nullable', image: 'string nullable', tags: 'json nullable', published: 'boolean default:false', published_at: 'datetime nullable' }
