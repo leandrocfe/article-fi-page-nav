@@ -4,7 +4,7 @@
 
 Previous and next navigation buttons within Filament pages. These buttons, designed as Filament Header Actions, can seamlessly navigate through ViewPages and EditPages.
 
-![Example](https://raw.githubusercontent.com/leandrocfe/article-fi-page-nav/d36b3b7225adaace0aeb386455f6f1420f16f3d8/screenshots/example.gif)
+![Example](https://github.com/leandrocfe/article-fi-page-nav/blob/d36b3b7225adaace0aeb386455f6f1420f16f3d8/screenshots/example.gif?raw=true)
 ### Installation
 
 Clone the repo locally:
